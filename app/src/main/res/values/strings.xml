@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">The Chance week8</string>
+    <string name="mohammed_hakeem">Mohammed Hakeem</string>
+    <string name="baghdad_iraq">Baghdad, Iraq</string>
+    <string name="call">Call</string>
+    <string name="message">Message</string>
+    <string name="more">More</string>
+    <string name="timeline">Timeline</string>
+    <string name="about">About</string>
+    <string name="friends">Friends</string>
+    <string name="photos">Photos</string>
+    <string name="write_something_to_mohammed_hakeem">write something to Mohammed…</string>
+    <string name="_780">780</string>
+    <string name="see_more">See More..</string>
+    <string name="ashley_ren">Ashley Ren</string>
+    <string name="_3_mutal_friends">3 mutal friends</string>
+    <string name="carter_white">Carter White</string>
+    <string name="_12_mutal_friends">12 mutal friends</string>
+    <string name="alex_lopez">Alex Lopez</string>
+    <string name="maggie_murphy">Magie Mrphy</string>
+    <string name="_580">580</string>
+</resources>

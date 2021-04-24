@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="profile_image">96dp</dimen>
+    <dimen name="VeryLargeMargin">32dp</dimen>
+    <dimen name="largeMargin">16dp</dimen>
+    <dimen name="topParentMargin">96dp</dimen>
+    <dimen name="marginMin">8dp</dimen>
+    <dimen name="elevation">16dp</dimen>
+    <dimen name="ic_size">38dp</dimen>
+    <dimen name="marginMid">12dp</dimen>
+    <dimen name="account_image_dimens">48dp</dimen>
+    <dimen name="paddingMin">8dp</dimen>
+    <dimen name="dump1_width">100dp</dimen>
+    <dimen name="dump1_height">156dp</dimen>
+    <dimen name="dump2_w">75dp</dimen>
+    <dimen name="dump2_h">75dp</dimen>
+    <dimen name="dump3_w">160dp</dimen>
+    <dimen name="dump3_h">75dp</dimen>
+    <dimen name="dump4_w">160dp</dimen>
+    <dimen name="dump4_h">75dp</dimen>
+    <dimen name="friend_dump_dimens">75dp</dimen>
+</resources>
